@@ -1,5 +1,5 @@
 # Advanced Clavicle Rig
-Originally developed as an advanced clavicle rig showcased on ArtStation.
+Originally developed as an advanced clavicle rig, showcased on ArtStation (created in 2022).
 
 `advanced_clavicle_rig.py` — Python script
 
